@@ -1,2 +1,2 @@
-# Keepr.ts
-Keepr.ts is a library which allows developers to configure which files to keep in build while compiling Typescript.
+# ts-keepr-plugin
+Keepr is a Typescript service plugin which allows developers to configure which files to keep in build while compiling Typescript.
