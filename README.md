@@ -13,7 +13,7 @@ KeeprJS is a NodeJS service/application plugin which allows developers to config
 KeeprJS can be simply installed using:
 
 ```
-npm install keeprjs
+npm install keepr
 ```
 
 And then, set up an simple `keepr.json` configuration file:
@@ -27,4 +27,4 @@ And then, set up an simple `keepr.json` configuration file:
 }
 ```
 
-And then, you can manually run `keeprjs` or create an postbuild script that includes running command `keeprjs`.
+And then, you can manually run `keepr` or create an postbuild script that includes running command `keepr`.
