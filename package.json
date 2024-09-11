@@ -1,0 +1,18 @@
+{
+  "name": "keeprjs",
+  "version": "1.0.0",
+  "description": "KeeprJS is a NodeJS service/application plugin which allows developers to configure which files and folders to keep in build directory after compiling/building/bundling.",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "plugin",
+    "typescript"
+  ],
+  "author": "Sergej Zivkovic",
+  "license": "ISC"
+}
